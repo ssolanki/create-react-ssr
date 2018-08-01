@@ -1,3 +1,5 @@
+Modified [cra-ssr-code-splitting](https://github.com/andreiduca/cra-ssr-code-splitting) to show index html getting cached
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
